@@ -6,7 +6,7 @@ You can use it to ask questions like:
 
 > Is urllib3/urllib3 secure?
 
-Or:
+That's not an endorsement of asking a LLM with limited context if something is secure, but if users are going to ask they should get back an answer informed by context. A better phrased question would be:
 
 > What security best practices does node-semver follow?
 
