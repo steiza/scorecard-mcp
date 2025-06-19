@@ -1,6 +1,6 @@
 # scorecard_mcp
 
-[![Install with uvx in VS Code](https://img.shields.io/badge/VS_Code-Install_AzureDevops_MCP_Server-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://insiders.vscode.dev/redirect/mcp/install?name=scorecard&config=%7B%22type%22%3A%20%22stdio%22%2C%20%22command%22%3A%20%22uvx%22%2C%20%22args%22%3A%20%5B%22scorecard-mcp%22%5D%7D)
+[![Install with uvx in VS Code](https://img.shields.io/badge/VS_Code-Install_Scorecard_MCP_Server-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://insiders.vscode.dev/redirect/mcp/install?name=scorecard&config=%7B%22type%22%3A%20%22stdio%22%2C%20%22command%22%3A%20%22uvx%22%2C%20%22args%22%3A%20%5B%22scorecard-mcp%22%5D%7D)
 
 This is an example [MCP server](https://github.com/modelcontextprotocol/servers/) for [OpenSSF Scorecard](https://scorecard.dev/).
 
